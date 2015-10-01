@@ -8,7 +8,7 @@
 		<artifactId>ServicePlatform</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>ServicePlatformWar</artifactId>
+	<artifactId>serviceplatformwar</artifactId>
 	<packaging>war</packaging>
 	<name>ServicePlatformWar</name>
 	<url>http://maven.apache.org</url>
@@ -20,6 +20,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>ServicePlatformWar</finalName>
+		<finalName>serviceplatform</finalName>
 	</build>
 </project>

@@ -41,9 +41,9 @@
 		</dependency>
 	</dependencies>
 	<modules>
-		<module>ServicePlatformProcess</module>
-		<module>ServicePlatformWebInterface</module>
-		<module>ServicePlatformWar</module>
+		<module>serviceplatformprocess</module>
+		<module>serviceplatformwebinterface</module>
+		<module>serviceplatformwar</module>
 	</modules>
 	<build>
 		<finalName>ServicePlatform</finalName>
